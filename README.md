@@ -8,4 +8,6 @@ _For Teting the code copy your image files jpeg/jpg where you have your create.p
 
 
 This is good for beginners of Open_CV
+
+
 _Prefferable for jpeg/jpg/etc_
