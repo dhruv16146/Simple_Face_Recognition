@@ -1,7 +1,7 @@
 # Simple_Face_Recognition
 Simple Face Recognition tool with OpenCV
 
-_For Teting the code copy your image files jpeg/jpg where you have your create.py file and run from command line like this_
+_For Testing the code copy your image files jpeg/jpg where you have your create.py file and run from command line like this_
 
 
 **python create.py nameofyourimage.extension**
